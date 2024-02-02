@@ -1,0 +1,1 @@
+Bibliotek som er brukt til illustrasjon kan finnes her: https://github.com/ChristopheJacquet/Minigeo, koden kjøres også fint om dette slettes
